@@ -85,3 +85,126 @@ text-align: center;
     background-color: #C271FF;
     gap: 46px;
 }
+.tutorials{
+font-size: 32px;
+font-weight: bold;
+text-align: center;
+}
+.popular{
+    color:#C271FF;
+}
+.ratings{
+    display: flex;
+    flex-direction: row;
+ 
+    justify-content: space-between;
+
+}
+.author{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+}
+.video{
+    width:255px;
+    height:154px
+}
+.round{
+ 
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+.videos{
+    display: flex;
+    flex-direction: row;
+    gap: 44px;
+    margin-top: 44px;
+}
+.star{
+    width:105px;
+    height:30px;
+}
+.ratingtext{
+    color: #C271FF;
+}
+.video-section{
+    background-color: white;
+    color: black;
+}
+.phil{
+    color: #C271FF;
+}
+.mtext{
+   font-size: 32px;
+   font-weight: bold;
+   text-align: center; 
+}
+.free{
+    color: #C271FF;  
+}
+.lorem{
+    font-size: 18px;
+}
+.lorem-desrciption{
+font-size: 14px;
+
+}
+.smiley{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+
+}
+.membership{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+gap: 45px;
+background-color: #071629;
+padding: 65px;
+}
+.faq{
+    color: #071629;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+}
+.ftitle{
+    font-size: 16px;
+    font-weight: 700px;
+}
+.fdescr{
+    font-size:14px ;
+    font-weight: 400;
+}
+.fcard{
+    display: flex;
+    flex-direction: row;
+}
+.fcards{
+
+}
+.faq-section{
+    background-color: white;
+    color:black;
+   
+}
+.footer{
+    background-color: #071629;
+    padding-top: 44px;
+    padding-bottom: 44px
+}
+.footer-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.copyright{
+    font-size:12px;
+    font-weight: 400;
+    text-align: center;
+   
+}
