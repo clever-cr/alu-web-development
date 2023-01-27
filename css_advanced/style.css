@@ -16,7 +16,7 @@ body{
     padding-left: 175px;
     padding-right: 169px;
     background-color: gray;
-    opacity: 20;
+
 
 }
 .links{
@@ -50,6 +50,7 @@ body{
 padding: 12px;
 color: white;
 font-weight: 600;
+border: none;
 
 }
 .word{
